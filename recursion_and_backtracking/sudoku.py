@@ -1,6 +1,6 @@
 import numpy as np
 
-print("===== S U D O K U =====")
+print("=====  S U D O K U  =====")
 print("")
 lst = [
     [5, 3, 0, 0, 7, 0, 0, 0, 0],
@@ -16,7 +16,7 @@ lst = [
 
 print(np.matrix(lst))
 print("")
-print("===== SOLVED ===== ")
+print("=====  SOLVED  ===== ")
 print("")
 
 
