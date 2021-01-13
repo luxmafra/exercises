@@ -1,10 +1,6 @@
 import numpy as np
 
-<<<<<<< HEAD
-print("=====  S U D O K U  =====")
-=======
 print("===== S U D O K U =====")
->>>>>>> origin/main
 print("")
 lst = [
     [5, 3, 0, 0, 7, 0, 0, 0, 0],
@@ -20,11 +16,7 @@ lst = [
 
 print(np.matrix(lst))
 print("")
-<<<<<<< HEAD
-print("=====  SOLVED  ===== ")
-=======
 print("===== RESOLVED ===== ")
->>>>>>> origin/main
 print("")
 
 
@@ -61,6 +53,5 @@ def solve():
     print("")
     input("More?")
     print("")
-
 
 solve()
